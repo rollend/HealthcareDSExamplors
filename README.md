@@ -14,7 +14,7 @@
  3. SHMI [All public data and code included]<br/>
   -Briefing: Forecasting the trend of SHMI from history data, challange is that there are more than 6000 thounds predictors, each has one year monthly time series data. Which model could do better, will not explode and where is the cap? <br/> 
   <br/>
- 4. Covid-19-Kaggle [Kaggle train data excluded and code included]<br/>
+ 4. Covid-19-Kaggle [Kaggle train data excluded; public data and code included]<br/>
   -Briefing: Global confirmed cases and fatalities, daily time series data (23.Jan.2020 - 18.Mar.2020). Forecasting next certain period of date (18.Mar.2020 - 13.Apr.2020) <br/>
   -Results: Performance in the middle range of competition<br/>
  <br/>
