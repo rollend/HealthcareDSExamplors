@@ -23,4 +23,10 @@
   -Status: Initialized as SIR model, next integrate with DL/GraphNN;<br/>
   -Below diagram shows the SIR: <br/>
   ![SIR](/covid-19-local/Capture.PNG)<br/>
+  <br/>
+ 6.AdvancingAnalytics [No data or code included] <br/>
+  -Briefing: Advancing Healthcare Analytics Capacity;<br/>
+  -Below diagram shows the Inforgraphic/Visualization: <br/>
+  ![Poster](/AdvancingAnalytics/tech-poster-final-draft-[JRG_120417].pdf)<br/>
+  
  
