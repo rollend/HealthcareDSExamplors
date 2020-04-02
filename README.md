@@ -19,7 +19,7 @@
   -Results: Performance in the middle range of competition<br/>
  <br/>
  5.Covid-19-Local [No data or code included]<br/>
-  -Briefing: Forecast local hospital covid cases. Only as indicator. 
+  -Briefing: Forecast local hospital covid cases. Only as indicator. <br/>
   -Status: Initialized as SIR model, next integrate with DL/GraphNN
   -Below diagram shows the SIR <br/>
   ![SIR](/covid-19-local/Capture.PNG)<br/>
