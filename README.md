@@ -1,6 +1,6 @@
 # HealthcareDSExamplors
- #Disclaimer: No patient data included, NHS project invovling patient data only provide screenshot to show the project <br/>
-##Projects: <br/>
+ # Disclaimer: No patient data included, NHS project invovling patient data only provide screenshot to show the project <br/>
+## Projects: <br/>
  1.Did not attend (DNA) <br/>
   -Briefing: Predict patient will attend his/her appoint or not, if not then intervention required. Current intervention message/phone call<br/>
  2. Stranded Patient/Length of Stay (LOS)/Delay transfer of care (DTOC)<br/>
